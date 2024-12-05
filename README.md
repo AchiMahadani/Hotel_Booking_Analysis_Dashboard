@@ -21,3 +21,9 @@ This repository showcases a **Hotel Booking Dashboard** developed using **Power 
 
 ![image](https://github.com/user-attachments/assets/d7574681-557f-47af-9916-c7385212ada7)
 
+
+## Data Preparation
+- Data was preprocessed using Power Query in Power BI.
+- Missing values were handled, and data types were standardized.
+- Created calculated measures and columns for in-depth analysis.
+
